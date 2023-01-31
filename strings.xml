@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FilmingApp</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_inicio">FILMINGAPP</string>
+    <string name="text_inicio">Inicio</string>
+    <string name="menu_peliculas">Películas</string>
+    <string name="menu_series">Series</string>
+    <string name="lblDetalles">Detalles</string>
+    <string name="lblCaratula">Carátula</string>
+    <string name="lblTitulo">Título</string>
+    <string name="lblDirector">Director</string>
+    <string name="lblReparto">Reparto</string>
+    <string name="lblCalificacion">Calificación</string>
+    <string name="lblSinopsis">Sinopsis</string>
+    <string name="lblTemporadas">Temporadas</string>
+
+    <string name="spiderman">SPIDER-MAN</string>
+    <string name="directorSpiderman">Sam Raimi</string>
+    <string name="repartoSpiderman">Tobey Maguire, Kirsten Dunst</string>
+    <string name="sinopsisSpiderman">Mordido por una araña genéticamente modificada, un estudiante de secundaria tímido y torpe obtiene increíbles capacidades como arácnido. Pronto comprenderá que su cometido es utilizarlas para luchar contra el mal y defender a sus vecinos.</string>
+
+    <string name="inception">INCEPTION</string>
+    <string name="directorInception">Christopher Nolan</string>
+    <string name="repartoInception">Leonardo DiCaprio, Cillian Murphy</string>
+    <string name="sinopsisInception">Dom Cobb es un ladrón capaz de adentrarse en los sueños de la gente y hacerse con sus secretos. Sin embargo, ahora tiene que llevar a cabo una misión diferente a lo que ha hecho siempre: realizar una incepción para implantar una idea en el subconsciente de una persona.</string>
+
+    <string name="renacido">EL RENACIDO</string>
+    <string name="directorRenacido">Alejandro González Iñárritu</string>
+    <string name="repartoRenacido">Leonardo DiCaprio, Tom Hardy</string>
+    <string name="sinopsisRenacido">Hugh Glass, un trampero y explorador de finales del siglo XIX resulta herido de muerte por el ataque de un oso. Sus compañeros deciden dejarle para proseguir con la expedición.</string>
+
+    <string name="joker">JOKER</string>
+    <string name="directorJoker">Todd Phillips</string>
+    <string name="repartoJoker">Joaquin Phoenix, Robert De Niro</string>
+    <string name="sinopsisJoker">La pasión de Arthur Fleck, un hombre ignorado por la sociedad, es hacer reír a la gente. Sin embargo, una serie de trágicos sucesos harán que su visión del mundo se distorsione considerablemente convirtiéndolo en un brillante criminal.</string>
+
+    <string name="saw">SAW</string>
+    <string name="directorSaw">James Wan</string>
+    <string name="repartoSaw">Tobin Bell, Darren Lynn</string>
+    <string name="sinopsisSaw">Adam y Lawrence se despiertan encadenados en un sucio baño con un cadáver entre ellos. Su secuestrador es un loco conocido como Jigsaw cuyo juego consiste en forzar a sus cautivos a herirse a si mismos o a otros con tal de permanecer vivos.</string>
+
+    <string name="breakingBad">BREAKING BAD</string>
+    <string name="directorBreakingBad">Vince Gilligan</string>
+    <string name="repartoBreakingBad">Bryan Cranston, Aaron Paul</string>
+    <string name="sinopsisBreakingBad">El profesor calmado de química de una secundaria, Walter White cree que su vida no puede ser peor. Su salario apenas le alcanza para sostener a su familia, una situación que no mejora cuando su esposa da a luz y su hijo adolescente sufre de parálisis cerebral, pero Walter queda anonadado cuando se entera que tiene un cáncer terminal. Al concluir que su enfermedad iba a arruinar financieramente a su familia, él toma una decisión desesperada con el fin de ganar más dinero durante el tiempo que le queda y transforma un viejo vehículo de recreación en un laboratorio de matanfetaminas sobre ruedas.</string>
+
+    <string name="mrRobot">MR. ROBOT</string>
+    <string name="directorMrRobot">Sam Esmail</string>
+    <string name="repartoMrRobot">Rami Malek, Carly Chaikin</string>
+    <string name="sinopsisMrRobot">Elliot Alderson, un brillante programador con problemas de ansiedad social, trabaja como ingeniero de ciberseguridad de día y como justiciero de noche. Su vida da un giro cuando unos ciberterroristas lo reclutan.</string>
+
+    <string name="peakyBlinders">PEAKY BLINDERS</string>
+    <string name="directorPeakyBlinders">Otto Bathurst</string>
+    <string name="repartoPeakyBlinders">Cillian Murphy, Paul Anderson</string>
+    <string name="sinopsisPeakyBlinders">Gran Bretaña vive la posguerra. Los soldados regresan, se acuñan nuevas revoluciones y nacen bandas criminales en una nación agitada. En Birmingham, una pandilla de gánsters callejeros asciende hasta convertirse en los reyes de la clase obrera.</string>
+
+    <string name="prisonBreak">PRISON BREAK</string>
+    <string name="directorPrisonBreak">Paul Scheuring</string>
+    <string name="repartoPrisonBreak">WentWorth Miller, Dominic Purcell</string>
+    <string name="sinopsisPrisonBreak">Michael Scofield es un hombre desesperado en una situación desesperada. Su hermano, Lincoln Burrows fue condenado a muerte por un crimen que no cometió y está esperando que se lleve a cargo su sentencia. Michael asalta un banco para poder entrar a la cárcel y estar junto a su hermano en la Penitenciaría Estatal Fox River, luego pone en funcionamiento sus planes elaborados para que Lincoln escape y pueda probar su inocencia. Una vez fuera de la cárcel, sus peligros no han terminado, los hermanos tienen que escapar de ser capturados nuevamente y luchan contra una conspiración policial intrincada que pone las vidas de todos en riesgo.</string>
+
+    <string name="strangerThings">STRANGER THINGS</string>
+    <string name="directorStrangerThings">Duffer brothers</string>
+    <string name="repartoStrangerThings">Millie Bobby Brown, Finn Wolfhard</string>
+    <string name="sinopsisStrangerThings">Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
